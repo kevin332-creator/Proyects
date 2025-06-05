@@ -85,14 +85,6 @@ Ingeniero en Informática y Sistemas con sólida experiencia en **arquitecturas 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
----
-
-## 📂 Proyectos Destacados
-
-- 🔒 **Sistema de Seguridad IoT para Invernaderos Inteligentes** – Control y monitoreo en tiempo real con sensores y actuadores, backend Laravel + MQTT + Angular.
-- ⚙️ **Pipeline DevOps Multi-Cloud** – Orquestación automatizada de despliegues con Terraform, Docker, GitHub Actions y Kubernetes.
-- 📈 **Dashboard de Observabilidad para Microservicios** – Integración de Prometheus, Grafana y Alertmanager en entorno distribuido.
-- 📡 **Reconocimiento en Tiempo Real con TensorFlow Lite** – App Android con detección de objetos usando modelos entrenados en Python y adaptados a TFLite.
 
 ---
 
