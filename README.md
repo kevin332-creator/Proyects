@@ -102,3 +102,18 @@ Ingeniero en Informática y Sistemas con sólida experiencia en **arquitecturas 
 
 
 ![Banner o GIF técnico](https://via.placeholder.com/1024x300/1e1e2f/ffffff?text=Ingeniería+Informática+y+Sistemas) *(recomendado: usa un banner personalizado)*
+
+---
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+---
+git remote remove origin
+git remote add origin git@github.com:kevin332-creator/constanciasAPP.git
+git remote -v
+---
+origin  git@github.com:kevin332-creator/constanciasAPP.git (fetch)
+origin  git@github.com:kevin332-creator/constanciasAPP.git (push)
+---
+git push -u origin main
